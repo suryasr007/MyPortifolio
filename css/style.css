@@ -1,0 +1,93 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 2em;
+  position: relative;
+}
+
+h3 {
+  font-family: 'Black Ops One', cursive;
+  
+}
+
+h2, .h3-font {
+  font-family: 'Playfair Display SC', serif;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.wrapper {
+  margin-top: 125px;
+}
+
+.nav-bar-prop {
+  border-radius: 0px;
+}
+
+
+/* .open{
+  margin-bottom:140px;
+}
+ */
+
+.fa {
+  color: black;
+}
+
+.web_project_image {
+  height: 300px;
+  width: 300px;
+  border: solid 3px black;
+}
+ 
+  .navbar {
+      margin-bottom: 0px;
+    border-color:#222222;
+     z-index:9999;
+  }
+  .affix {
+      top: 0;
+      width: 100%;
+      -webkit-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+      background-color: #222222;
+      border-color: #222222;
+}
+ .affix a{
+      color: #9d9d9d !important;
+      padding: 12px !important;
+      -webkit-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+  }
+ .affix a:hover{
+   border-top:solid 1px #fff;
+      color: #fff !important;
+      padding: 10px !important;
+      -webkit-transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+  }
+.scrollspy a{
+  border-top:solid 1px #fff;
+}
+     #header{
+      padding:50px; 
+      
+      background-color:#222222;
+    }
